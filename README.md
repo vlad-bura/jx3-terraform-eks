@@ -5,7 +5,7 @@ Use this template to easily create a new Git Repository for managing Jenkins X c
 We recommend using Terraform to manage the infrastructure needed to run Jenkins X. 
 There can be a number of cloud resources which need to be created such as:
 - Kubernetes cluster
-- Storage buckets for long term storage of logs
+- Storage buckets for long sdsadasdasterm storage of logs
 - IAM Bindings to manage permissions for applications using cloud resources
 
 Jenkins X likes to use GitOps to manage the lifecycle of both infrastructure and cluster resources.  
